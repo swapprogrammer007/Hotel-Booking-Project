@@ -1,5 +1,8 @@
 # Hotel-Booking-Project
-Data Analysis Project using Python 
+Data Analysis Project using Python
+
+Probile Statement:
+In hotel we have seen high cancellation rate. Each hotel is dealing with number of issue as a result including less revenues and less hotel rooms use. we seen this issue in both city hotel and resort hotel, so lowering cancellation rate is primary goal of both the hotel and increase efficiency of generating revenue
 
 Description:
 
